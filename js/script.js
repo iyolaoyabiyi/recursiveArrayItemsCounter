@@ -13,4 +13,4 @@ function countAllArrayItems(array) {
 }
 
 let numberOfItems = countAllArrayItems(testArray);
-console.log(numberOfItems);
+console.log(`Total number of items: ${numberOfItems}`);
